@@ -1,0 +1,9 @@
+.next
+node_modules
+public
+.agents
+.claude
+package-lock.json
+next-env.d.ts
+tsconfig.tsbuildinfo
+src/types/api.d.ts
